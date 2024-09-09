@@ -1,5 +1,7 @@
 ## **Mergulhe no Mundo de Game of Thrones com o nosso Carrossel de Dragões!** 
 
+<img src="src/imagens/Projeto.png">
+
 ### **O que é esse projeto?** 
 
 Já imaginou dar um passeio pelos céus de Westeros e conhecer de perto os dragões mais famosos de Game of Thrones? Com nosso carrossel mágico, você pode fazer isso! 
